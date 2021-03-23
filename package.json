@@ -1,0 +1,30 @@
+{
+  "name": "jeelizhelpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ringoma/JeelizHelpers.git"
+  },
+  "keywords": [
+    "face",
+    "tracking",
+    "detection",
+    "filter",
+    "webcam",
+    "robust",
+    "video",
+    "camera"
+  ],
+  "author": "Ringo Ma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ringoma/JeelizHelpers/issues"
+  },
+  "homepage": "https://github.com/ringoma/JeelizHelpers#readme",
+  "description": "Helper classes of Jeeliz Face Filter by author Xavier Bourry. Jeeliz Face Filter is a real time face detection and tracking from camera video feed."
+
+}
